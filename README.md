@@ -1,0 +1,1 @@
+#jasmine-node [![Build Status](https://app.travis-ci.com/jailton-dantas/testes-unitarios-jasmine-karma.svg?branch=master)](https://app.travis-ci.com/jailton-dantas/testes-unitarios-jasmine-karma)
